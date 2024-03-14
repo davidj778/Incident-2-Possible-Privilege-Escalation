@@ -18,6 +18,17 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 7. Determine legitimacy of the incident (True Positive, False Positive, etc.)
 8. If True Positive, continue, if False positive, close it out
 
+
+https://imgur.com/p6Q6Rsh
+https://imgur.com/6iqVVda
+https://imgur.com/yxlNeiA
+https://imgur.com/TFmOuxP
+https://imgur.com/ZOf4nE5
+
+
+
+
+
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
 
 <h2>Step 4: Document Findings/Info and Clouse out the Incident in Sentinel</h2>
