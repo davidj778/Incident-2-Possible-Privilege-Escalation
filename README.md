@@ -15,31 +15,16 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 ![1](https://imgur.com/ZOf4nE5.jpg)
 3. Observe the Activity Log (for history of incident)
 ![1](https://imgur.com/yxlNeiA.jpg)
-5. Observe Entities and Incident Timelines (are they doing anything else?)
-6. "Investigate" the incident and continue trying to determine the scope
-7. Inspect the entities and see if there are any related events
-8. Determine legitimacy of the incident (True Positive, False Positive, etc.)
+4. Observe Entities and Incident Timelines (are they doing anything else?)
+5. "Investigate" the incident and continue trying to determine the scope
+6. Inspect the entities and see if there are any related events
+![1](https://imgur.com/p6Q6Rsh.jpg)
+7. Determine legitimacy of the incident (True Positive, False Positive, etc.)
 9. If True Positive, continue, if False positive, close it out
-
-
-https://imgur.com/p6Q6Rsh
-https://imgur.com/6iqVVda
-
-
-
-
-
-
-https://imgur.com/TFmOuxP
-https://imgur.com/ZOf4nE5
-https://imgur.com/yxlNeiA
-
-
 
 
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
 
 <h2>Step 4: Document Findings/Info and Clouse out the Incident in Sentinel</h2>
 
-## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://imgur.com/ypJkZ7U.jpg)
+![1](https://imgur.com/6iqVVda.jpg)
