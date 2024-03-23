@@ -13,16 +13,27 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 <h2>Step 2: Detection & Analysis</h2>
 
 1. Set Severity, Status, Owner
+
 ![1](https://imgur.com/TFmOuxP.jpg)
+
 2. View Full Details (New Experience)
+
 ![1](https://imgur.com/ZOf4nE5.jpg)
+
 3. Observe the Activity Log (for history of incident)
+
 ![1](https://imgur.com/yxlNeiA.jpg)
+
 4. Observe Entities and Incident Timelines (are they doing anything else?)
+
 5. "Investigate" the incident and continue trying to determine the scope
+
 6. Inspect the entities and see if there are any related events
+
 ![1](https://imgur.com/p6Q6Rsh.jpg)
+
 7. Determine legitimacy of the incident (True Positive, False Positive, etc.)
+
 8. If True Positive, continue, if False positive, close it out
 
 
